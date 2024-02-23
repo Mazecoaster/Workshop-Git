@@ -2,7 +2,7 @@
 
 int addValues(int a, int b)
 {
-    return 0;
+    return a + b;
 }
 
 int main()
