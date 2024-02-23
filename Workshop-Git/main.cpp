@@ -8,8 +8,8 @@ int addValues(int a, int b)
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "My name is {Your Name Here}!\n";
-    std::cout << "Today is {Date Here}!\n";
+    std::cout << "My name is {Colin Gallagher}!\n";
+    std::cout << "Today is {2/23/24}!\n";
 
     int a = 2;
     int b = 7;
